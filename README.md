@@ -3,6 +3,11 @@
 A Natural Language Processing (NLP) project that detects fake news using various text embeddings (SBERT, TF-IDF, Bag-of-Words), supervised learning models, and evaluation pipelines.
 
 ---
+### Link to the model
+https://drive.google.com/file/d/186vvURZKmUs9rlrRfZXCV7MNwyyXiLsd/view?usp=drive_link
+
+### Link to the training data
+https://drive.google.com/file/d/1yac1xt6pDWSVKtqQWVZpXWFrUhG9We1R/view?usp=drive_link
 
 ## 📁 Project Structure
 
