@@ -114,3 +114,6 @@ python app.py
 
 - Perform hyperparameter tuning (GridSearch/Cross-validation)
 - Apply dataset augmentation or handle class imbalance
+
+
+# Author : Abhishek Thummanapelli
